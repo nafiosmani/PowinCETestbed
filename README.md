@@ -7,7 +7,7 @@ Hey CEs
 
 We are working on improving docmuentation/help with scripts.
 Please add these comments to test scripts you use.
-
+```
 #!bin/bash
 
 #1) Purpose
@@ -23,7 +23,7 @@ Please add these comments to test scripts you use.
 #3) Resulting actions
 
 #4) Outputs
- 
+ ```
 Example: cellTempIgnore.sh
 ![image](https://github.com/user-attachments/assets/00c081d4-d4f6-46a0-b8be-1572d3f8eab7)
 
