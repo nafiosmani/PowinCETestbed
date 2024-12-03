@@ -1,0 +1,1 @@
+for $1 in {1..2}; do for $2 in {1..18}; do for $3 in {1..14}; do for $4 in {1..30}; do curl http://10.0.1.1:8080/turtle/tools/controls/bms/array/$1/string/$2/bp/$3/cg/$4/ignorecellgrouptemp/on; done; done; done; done

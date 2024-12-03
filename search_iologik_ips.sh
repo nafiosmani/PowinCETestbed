@@ -1,0 +1,1 @@
+for i in 3 {10..100..5}; do printf "10.0.$1.$i, "; sshpass -p moxa ssh moxa@10.0.$1.$i "echo -n \$(cat /var/lib/tomcat8/conf/Catalina/localhost/feather.xml | grep team | head -c -1), ; echo \$(cat /etc/powin/feather.json | jq -r .featherIndex;), \$(cat /etc/powin/fourbaidentity.json | jq -r .featherIndex;),"; done | column -t -s','
