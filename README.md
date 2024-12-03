@@ -5,7 +5,7 @@ Powin Comissioning Engineering Team Test Bed for Version Control
 
 Hey CEs
 
-We are working on improving docmuentation/help with scripts.
+We are working on improving documentation/help with scripts.
 Please add these comments to test scripts you use.
 ```
 #!bin/bash
