@@ -23,4 +23,6 @@ Please add these comments to test scripts you use
 
 #4) Outputs
  
-![image](https://github.com/user-attachments/assets/94d4acb9-96d2-4e11-bb28-d6d32ba20b84)
+Example: cellTempIgnore.sh
+![image](https://github.com/user-attachments/assets/00c081d4-d4f6-46a0-b8be-1572d3f8eab7)
+
