@@ -5,10 +5,11 @@ Powin Comissioning Engineering Team Test Bed for Version Control
 
 Hey CEs
 
-We are working on improving docmuentation/help with scripts
-Please add these comments to test scripts you use
+We are working on improving docmuentation/help with scripts.
+Please add these comments to test scripts you use.
 
 #!bin/bash
+
 #1) Purpose
 
 #This script is used by ___ in order to ____ on the ___
